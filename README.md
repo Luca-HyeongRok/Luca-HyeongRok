@@ -1,5 +1,6 @@
 ## Hi there 👋 Nice meet you guys 
-
+--
+#전형록입니다.
 <!--
 I can do
 **Luca-HyeongRok/Luca-HyeongRok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
